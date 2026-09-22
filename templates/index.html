@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scam Checker</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Scam Checker</h1>
+        <p class="subtitle">Check a bank alert or loan app link before you click.</p>
+
+        <div class="card">
+            <form class="url-form" method="POST">
+                <input type="text" name="url" placeholder="Paste a link here" required>
+                <button type="submit">Check</button>
+            </form>
+        </div>
+
+        {% if result %}
+            <div class="card level-{{ result.level }}">
+                <span class="verdict-badge">{{ result.verdict }}</span>
+                <p class="score-line">Score: {{ result.score }} / 100</p>
+                <p class="checked-url">Checked: {{ result.url }}</p>
+
+                {% if result.red_flags %}
+                    <h3>Red flags</h3>
+                    <ul>
+                        {% for flag in result.red_flags %}
+                            <li>{{ flag }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if result.notes %}
+                    <h3>Could not verify</h3>
+                    <ul>
+                        {% for note in result.notes %}
+                            <li>{{ note }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+
+            {% if result.level != "low" %}
+                <div class="card">
+                    <h3>Have you already interacted with this?</h3>
+                    <form method="POST" action="/guidance">
+                        <div class="checkbox-row">
+                            <label><input type="checkbox" name="money_sent"> I sent money</label>
+                            <label><input type="checkbox" name="info_shared"> I shared my BVN, OTP, or PIN</label>
+                        </div>
+                        <button type="submit">Get guidance</button>
+                    </form>
+                </div>
+            {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>

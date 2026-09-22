@@ -1,0 +1,912 @@
+{
+  "summary": {
+    "total": 60,
+    "true_positives": 30,
+    "false_positives": 0,
+    "true_negatives": 30,
+    "false_negatives": 0,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "results": [
+    {
+      "url": "https://www.gtbank.com/personal",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://gtbank.com/business",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.zenithbank.com/personal-banking",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://zenithbank.com",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://www.accessbankplc.com/personal",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://accessbankplc.com/about-us",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://ubagroup.com/nigeria",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.ubagroup.com",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://www.fidelitybank.ng/personal-banking",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://fidelitybank.ng/about-us",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.firstbanknigeria.com/personal",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://firstbanknigeria.com/online-banking",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "Could not connect to check HTTPS certificate",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.fcmb.com/personal-banking",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://fcmb.com",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://www.unionbankng.com/personal",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://unionbankng.com/about",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.wemabank.com/personal-banking",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://wemabank.com",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://www.gtbank.com/corporate",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.zenithbank.com/corporate",
+      "true_label": "legit",
+      "category": "bank_alert",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://fairmoney.io/",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://fairmoney.io/loans",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.getcarbon.co/personal",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://www.getcarbon.co/loans",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://branch.co/",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://branch.co/how-it-works",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://renmoney.com/",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://renmoney.com/features",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "https://fairmoney.io/about",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "https://www.getcarbon.co/",
+      "true_label": "legit",
+      "category": "loan_app",
+      "predicted_label": "legit",
+      "correct": true,
+      "score": 0,
+      "verdict": "Low Risk - Likely Legitimate",
+      "red_flags": [],
+      "notes": []
+    },
+    {
+      "url": "http://gtbank-alert.xyz/verify",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.xyz', a TLD commonly abused in phishing sites",
+        "Domain contains 'gtbank' but is not gtbank.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://zenithbank-secure.top/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.top', a TLD commonly abused in phishing sites",
+        "Domain contains 'zenithbank' but is not zenithbank.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://accessbank-verify.club/account",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.club', a TLD commonly abused in phishing sites",
+        "Domain contains 'accessbank' but is not accessbankplc.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://uba-alert.online/bvn-update",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.online', a TLD commonly abused in phishing sites",
+        "Domain contains 'uba' but is not ubagroup.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fidelitybank-update.site/otp",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.site', a TLD commonly abused in phishing sites",
+        "Domain contains 'fidelitybank' but is not fidelitybank.ng",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://firstbank-secure.work/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.work', a TLD commonly abused in phishing sites",
+        "Domain contains 'firstbank' but is not firstbanknigeria.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fcmb-verify.tk/account",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.tk', a TLD commonly abused in phishing sites",
+        "Domain contains 'fcmb' but is not fcmb.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://unionbank-alert.ml/bvn",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.ml', a TLD commonly abused in phishing sites",
+        "Domain contains 'unionbank' but is not unionbankng.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://wemabank-secure.ga/verify",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.ga', a TLD commonly abused in phishing sites",
+        "Domain contains 'wemabank' but is not wemabank.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://gtbank-login-verify-now.com/secure",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'gtbank' but is not gtbank.com",
+        "Domain contains an unusually high number of hyphens",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://zenithbank.login.verify.security.xyz/",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 55,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.xyz', a TLD commonly abused in phishing sites",
+        "Domain contains 'zenithbank' but is not zenithbank.com",
+        "URL has an unusually deep subdomain structure",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://192.168.50.12/gtbank/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 20,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "URL uses a raw IP address instead of a domain name",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://gtbank.com@fake-banking-portal-ng.ru/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 20,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "URL contains '@', which can hide the real destination domain",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://accessbank-security-update-portal.com/verify",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'accessbank' but is not accessbankplc.com",
+        "Domain contains an unusually high number of hyphens",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://uba.com.verify-account.info/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 35,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'uba' but is not ubagroup.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fidelitybank-alert.tk/verify-bvn",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.tk', a TLD commonly abused in phishing sites",
+        "Domain contains 'fidelitybank' but is not fidelitybank.ng",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://firstbanknigeria-secure-verify.com/login",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 35,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'firstbank' but is not firstbanknigeria.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fcmb.security.alert.verify.com/",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'fcmb' but is not fcmb.com",
+        "URL has an unusually deep subdomain structure",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://wemabank-loan-alert.click/claim",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.click', a TLD commonly abused in phishing sites",
+        "Domain contains 'wemabank' but is not wemabank.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://10.0.0.55/unionbank/secure",
+      "true_label": "scam",
+      "category": "bank_alert",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 20,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "URL uses a raw IP address instead of a domain name",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fairmoney-verify.xyz/loan-approval",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.xyz', a TLD commonly abused in phishing sites",
+        "Domain contains 'fairmoney' but is not fairmoney.io",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://getcarbon-secure.top/claim",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.top', a TLD commonly abused in phishing sites",
+        "Domain contains 'getcarbon' but is not getcarbon.co",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://branch-loan-alert.club/apply",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.club', a TLD commonly abused in phishing sites",
+        "Domain contains 'branch' but is not branch.co",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://renmoney-verify.online/account",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.online', a TLD commonly abused in phishing sites",
+        "Domain contains 'renmoney' but is not renmoney.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fairmoney-loan-approved-now.com/claim",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'fairmoney' but is not fairmoney.io",
+        "Domain contains an unusually high number of hyphens",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://172.16.5.20/fairmoney/loan",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 20,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "URL uses a raw IP address instead of a domain name",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://getcarbon.com@loan-scam-portal.ru/apply",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 20,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "URL contains '@', which can hide the real destination domain",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://branch.security.verify.loan.com/",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'branch' but is not branch.co",
+        "URL has an unusually deep subdomain structure",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://renmoney-alert.tk/claim-now",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain uses '.tk', a TLD commonly abused in phishing sites",
+        "Domain contains 'renmoney' but is not renmoney.com",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "WHOIS record has no creation date",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    },
+    {
+      "url": "http://fairmoney-account-verify-secure.info/login",
+      "true_label": "scam",
+      "category": "loan_app",
+      "predicted_label": "scam",
+      "correct": true,
+      "score": 45,
+      "verdict": "Suspicious - Proceed with Caution",
+      "red_flags": [
+        "Domain contains 'fairmoney' but is not fairmoney.io",
+        "Domain contains an unusually high number of hyphens",
+        "Site does not use HTTPS"
+      ],
+      "notes": [
+        "Could not perform WHOIS lookup for this domain",
+        "URL has not been scanned by VirusTotal before"
+      ]
+    }
+  ]
+}
